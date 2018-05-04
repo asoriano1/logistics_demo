@@ -15,9 +15,9 @@
     <include file="$(find logistics_demo)/launch/turtle_i.launch">
         <arg name="robot" value="robot_0" />
         <arg name="map" value="$(arg map)" />
-        <arg name="initial_pose_x" value="-4.0" />
+        <!--arg name="initial_pose_x" value="-4.0" />
         <arg name="initial_pose_y" value="2.0" />
-        <arg name="initial_pose_a" value="0.0" />
+        <arg name="initial_pose_a" value="0.0" /-->
     </include>
     
     <!-- robot 1 -->
