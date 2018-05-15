@@ -10,7 +10,7 @@
     <specular>0.2 0.2 0.2 1</specular>
 
     <attenuation>
-      <range>100</range>
+      <range>1000</range>
       <constant>0.5</constant>
       <linear>0.00</linear>
       <quadratic>0.000</quadratic>
